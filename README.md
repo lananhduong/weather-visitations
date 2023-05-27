@@ -1,6 +1,6 @@
 # Weather and Visitation Analysis
 
-### My team received a business problem from the client Stockland - One of Australia's largest property groups owning, building, and managing shopping centres, housing estates, industrial estates, retirement villages, etc.
+### My team received a business problem from the client 'Stockland' - One of Australia's largest property groups owning, building, and managing shopping centres, housing estates, industrial estates, retirement villages, etc.
 - Business Problem: Impact of weather on retail shopping centre visitation/spend
 
 - People visitations are a key performance indictor for retail centres, understanding the relationship between weather and visitation/spend for retail shopping centres is key to predicting future trends 
